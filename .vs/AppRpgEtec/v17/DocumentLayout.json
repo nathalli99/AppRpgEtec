@@ -1,0 +1,896 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\personagens\\listagempersonagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\personagens\\listagempersonagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\personagens\\listagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\personagens\\listagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\personagens\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\personagens\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\disputas\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\disputas\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\disputas\\listagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\disputas\\listagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\personagens\\personagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\personagens\\personagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\usuarios\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\disputas\\disputaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\disputas\\disputaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\disputas\\disputaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\disputas\\disputaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\personagens\\cadastropersonagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\personagens\\cadastropersonagemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\personagemhabilidades\\personagemhabilidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\personagemhabilidades\\personagemhabilidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\personagemhabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\personagemhabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\habilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\habilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\usuarios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\disputa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\disputa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\imagemusuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\imagemusuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\appshellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\usuarios\\imagemusuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\usuarios\\imagemusuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\converters\\bytearraytoimagesourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\converters\\bytearraytoimagesourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\imagemusuarioview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\imagemusuarioview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\usuarios\\localizacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\usuarios\\localizacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\armas\\listagemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\armas\\listagemview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\armas\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\armas\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\viewmodels\\armas\\listagemarmaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\viewmodels\\armas\\listagemarmaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\armas\\cadastroarmaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\armas\\cadastroarmaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\personagens\\cadastropersonagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\personagens\\cadastropersonagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\personagens\\cadastropersonagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\personagens\\cadastropersonagemview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\services\\armas\\armaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\services\\armas\\armaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\models\\enuns\\classeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\models\\enuns\\classeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\apprpgetec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\apprpgetec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\descriptionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\descriptionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\aboutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\aboutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\aboutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\aboutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\listagemview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\cadastroview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\cadastroview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\cadastroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\cadastroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\views\\usuarios\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\views\\usuarios\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|d:\\1-arquivos\\1-etec-ds\\3ds\\pam\\apprpgetec\\apprpgetec\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02076D2E-B740-42CD-A55C-2227F3331C28}|AppRpgEtec\\AppRpgEtec.csproj|solutionrelative:apprpgetec\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListagemView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\ListagemView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Personagens\\ListagemView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\ListagemView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Personagens\\ListagemView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListagemView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Disputas\\ListagemView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Disputas\\ListagemView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Disputas\\ListagemView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Disputas\\ListagemView.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListagemView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\ListagemView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Personagens\\ListagemView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\ListagemView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Personagens\\ListagemView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListagemPersonagemViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Personagens\\ListagemPersonagemViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Personagens\\ListagemPersonagemViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Personagens\\ListagemPersonagemViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Personagens\\ListagemPersonagemViewModel.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAUwK4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListagemView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Disputas\\ListagemView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Disputas\\ListagemView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Disputas\\ListagemView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Disputas\\ListagemView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonagemService.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Personagens\\PersonagemService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Personagens\\PersonagemService.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Personagens\\PersonagemService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Personagens\\PersonagemService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Usuarios\\UsuarioViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wD4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:10:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisputaViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Disputas\\DisputaViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Disputas\\DisputaViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Disputas\\DisputaViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Disputas\\DisputaViewModel.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAqwPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroPersonagemViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Personagens\\CadastroPersonagemViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Personagens\\CadastroPersonagemViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Personagens\\CadastroPersonagemViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Personagens\\CadastroPersonagemViewModel.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAMoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisputaService.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Disputas\\DisputaService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Disputas\\DisputaService.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Disputas\\DisputaService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Disputas\\DisputaService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonagemHabilidade.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\PersonagemHabilidade.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\PersonagemHabilidade.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\PersonagemHabilidade.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\PersonagemHabilidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Habilidade.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Habilidade.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Habilidade.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Habilidade.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Habilidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImagemUsuarioView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Disputa.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Disputa.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Disputa.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Disputa.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Disputa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImagemUsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\ImagemUsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Usuarios\\ImagemUsuarioViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\ImagemUsuarioViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Usuarios\\ImagemUsuarioViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\AppShell.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Usuarios\\UsuarioService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA2wCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Request.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Request.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Request.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Request.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAWwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonagemHabilidadeService.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\PersonagemHabilidades\\PersonagemHabilidadeService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\PersonagemHabilidades\\PersonagemHabilidadeService.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\PersonagemHabilidades\\PersonagemHabilidadeService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\PersonagemHabilidades\\PersonagemHabilidadeService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImagemUsuarioView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\ImagemUsuarioView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ByteArrayToImageSourceConverter.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Converters\\ByteArrayToImageSourceConverter.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Converters\\ByteArrayToImageSourceConverter.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Converters\\ByteArrayToImageSourceConverter.cs",
+              "RelativeToolTip": "AppRpgEtec\\Converters\\ByteArrayToImageSourceConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShellViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\AppShellViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\AppShellViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\AppShellViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\AppShellViewModel.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\AppShell.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppShell.xaml",
+              "RelativeToolTip": "AppRpgEtec\\AppShell.xaml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Usuario.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AppRpgEtec\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-12T20:54:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LocalizacaoViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\LocalizacaoViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Usuarios\\LocalizacaoViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Usuarios\\LocalizacaoViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Usuarios\\LocalizacaoViewModel.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAWwDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ArmaService.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Armas\\ArmaService.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Services\\Armas\\ArmaService.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Services\\Armas\\ArmaService.cs",
+              "RelativeToolTip": "AppRpgEtec\\Services\\Armas\\ArmaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Arma.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Arma.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Arma.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Arma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListagemView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\ListagemView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Armas\\ListagemView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\ListagemView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Armas\\ListagemView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Personagem.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Personagem.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Personagem.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Personagem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ListagemView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\ListagemView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Armas\\ListagemView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\ListagemView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Armas\\ListagemView.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CadastroPersonagemView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CadastroArmaView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\CadastroArmaView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Armas\\CadastroArmaView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Armas\\CadastroArmaView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Armas\\CadastroArmaView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ListagemArmaViewModel.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Armas\\ListagemArmaViewModel.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\ViewModels\\Armas\\ListagemArmaViewModel.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\ViewModels\\Armas\\ListagemArmaViewModel.cs",
+              "RelativeToolTip": "AppRpgEtec\\ViewModels\\Armas\\ListagemArmaViewModel.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CadastroPersonagemView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Personagens\\CadastroPersonagemView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\MainPage.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\MainPage.xaml",
+              "RelativeToolTip": "AppRpgEtec\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppRpgEtec.csproj",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+              "RelativeDocumentMoniker": "AppRpgEtec\\AppRpgEtec.csproj",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+              "RelativeToolTip": "AppRpgEtec\\AppRpgEtec.csproj",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T20:54:53.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\MainPage.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClasseEnum.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Enuns\\ClasseEnum.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Models\\Enuns\\ClasseEnum.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Models\\Enuns\\ClasseEnum.cs",
+              "RelativeToolTip": "AppRpgEtec\\Models\\Enuns\\ClasseEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DescriptionView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\DescriptionView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\DescriptionView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\DescriptionView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\DescriptionView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AboutView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AboutView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\AboutView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AboutView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\AboutView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "colors.xml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "AppRpgEtec\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-12T20:54:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AboutView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AboutView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\AboutView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\AboutView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\AboutView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ListagemView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ListagemView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\ListagemView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\ListagemView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\ListagemView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\App.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\App.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CadastroView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AppRpgEtec\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\LoginView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T20:54:53.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CadastroView.xaml.cs",
+              "DocumentMoniker": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "RelativeDocumentMoniker": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "ToolTip": "D:\\1-arquivos\\1-ETEC-DS\\3DS\\pam\\AppRpgEtec\\AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "RelativeToolTip": "AppRpgEtec\\Views\\Usuarios\\CadastroView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:54:53.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
