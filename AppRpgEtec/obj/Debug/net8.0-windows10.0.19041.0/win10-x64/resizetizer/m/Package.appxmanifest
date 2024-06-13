@@ -23,7 +23,7 @@
             <uap:ShowOn Tile="wide310x150Logo" />
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
-        <uap:SplashScreen Image="has_logo_transparenteSplashScreen.png" />
+        <uap:SplashScreen Image="has_logo_transparentSplashScreen.png" />
       </uap:VisualElements>
     </Application>
   </Applications>

@@ -63,7 +63,12 @@ namespace AppRpgEtec.Services
             string serialized = await response.Content.ReadAsStringAsync();
 
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
-                return int.Parse(serialized);
+            {
+                if (!string.IsNullOrEmpty(serialized))
+                    return int.Parse(serialized);
+                else 
+                    return 0;
+            }
             else
                 throw new Exception(serialized);
         }

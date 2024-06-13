@@ -19,7 +19,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="has_logo_transparente_B288BA50FCC24F03BB34B0030DC839A7BDCF29FB72EDB3E2B2C7149564E82AE8.png" translatesAutoresizingMaskIntoConstraints="NO" id="aT4-1l-d9a">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="has_logo_transparent_B8379DFB6EF4D57F8F8DB29B3EE9C6EC504423F131CC704C5658E1AEB81656C3.png" translatesAutoresizingMaskIntoConstraints="NO" id="aT4-1l-d9a">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -33,6 +33,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="has_logo_transparente_B288BA50FCC24F03BB34B0030DC839A7BDCF29FB72EDB3E2B2C7149564E82AE8.png" />
+        <image name="has_logo_transparent_B8379DFB6EF4D57F8F8DB29B3EE9C6EC504423F131CC704C5658E1AEB81656C3.png" />
     </resources>
 </document>
